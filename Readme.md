@@ -18,11 +18,11 @@ Dúvidas, ideias ou apenas quer compartilhar sua jornada? Estamos sempre dispon�
 
 <br>
 
-![!\[Alt text\](Prints\Comidas.jpeg)](Prints\Comidas.jpeg)
+[![Alt text](Prints/Comidas.jpeg)](Prints/Comidas.jpeg)
 
 <br>
 
-![!\[Alt text\](Prints\Músicas.jpeg)](Prints\Músicas.jpeg)
+![![Alt text](Prints/Músicas.jpeg)](Prints/Músicas.jpeg)
 
 <br>
 
